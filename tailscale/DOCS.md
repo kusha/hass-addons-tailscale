@@ -6,7 +6,7 @@ Follow these steps to get the add-on installed on your system:
 
 1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**.
 2. Click the "dot dot dot" icon in the top right corner, followed by the **Repositories** button.
-3. Enter `https://github.com/tsujamin/hass-addons.git` as the new repository and click Add.
+3. Enter `https://github.com/kusha/hass-addons.git` as the new repository and click Add.
 4. Click the "dot dot dot" icon in the top right corner again, and click the **Reload** button
 5. Wait for the page to finish reloading, find the "Tailscale" add-on and click it. 
 6. Click on the "INSTALL" button.
@@ -145,4 +145,4 @@ To ensure you can access Home Assistant from your mobile app when you're using T
 
 ## Support
 
-Got questions? Open an issue at <https://github.com/tsujamin/hass-addons/issues>
+Got questions? Open an issue at <https://github.com/kusha/hass-addons/issues>
